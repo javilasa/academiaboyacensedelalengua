@@ -1,0 +1,9 @@
+How to compress pdf max
+Go to 
+https://www.ilovepdf.com/compress_pdf
+
+Select de max compression
+
+validate with your gmail account
+
+root files E:\xampp\htdocs\academiaboyacensedelalengua\assets\files\revistas
