@@ -62,10 +62,9 @@
                 "description2" => "Junta Directiva",                
             ];
             
-            
+            $position = "";
             foreach($miembros as $miembro){
-                
-                $position = $position == "right"? "left":"right";
+                $position = $position == "right" ? "left":"right";
                 $card_img = $miembro["img_path"];
                 $card_title = $miembro["name"];
                 $card_description1 = $miembro["description1"];

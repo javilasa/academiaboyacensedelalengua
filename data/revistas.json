@@ -115,5 +115,59 @@
          "label":"Descargar",
          "url":"assets/files/revistas/Polimnia_22.pdf"
       }
+   },
+   {
+      "title":"Polimnia 23",
+      "img":"assets/images/revistas/Polimnia23.png",
+      "text":"Revista Polimnia #22",
+      "link":{
+         "label":"Descargar",
+         "url":"assets/files/revistas/Polimnia_23.pdf"
+      }
+   },
+   {
+      "title":"Polimnia 24",
+      "img":"assets/images/revistas/Polimnia24.png",
+      "text":"Revista Polimnia #22",
+      "link":{
+         "label":"Descargar",
+         "url":"assets/files/revistas/Polimnia_24.pdf"
+      }
+   },
+   {
+      "title":"Polimnia 25",
+      "img":"assets/images/revistas/Polimnia25.png",
+      "text":"Revista Polimnia #22",
+      "link":{
+         "label":"Descargar",
+         "url":"assets/files/revistas/Polimnia_25.pdf"
+      }
+   },
+   {
+      "title":"Polimnia 26",
+      "img":"assets/images/revistas/Polimnia26.png",
+      "text":"Revista Polimnia #22",
+      "link":{
+         "label":"Descargar",
+         "url":"assets/files/revistas/Polimnia_26.pdf"
+      }
+   },
+   {
+      "title":"Polimnia 27",
+      "img":"assets/images/revistas/Polimnia27.png",
+      "text":"Revista Polimnia #22",
+      "link":{
+         "label":"Descargar",
+         "url":"assets/files/revistas/Polimnia_27.pdf"
+      }
+   },
+   {
+      "title":"Polimnia 28",
+      "img":"assets/images/revistas/Polimnia28.png",
+      "text":"Revista Polimnia #22",
+      "link":{
+         "label":"Descargar",
+         "url":"assets/files/revistas/Polimnia_28.pdf"
+      }
    }
 ]
