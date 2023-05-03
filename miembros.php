@@ -50,9 +50,9 @@
                 "description2" => "Junta Directiva",                
             ];
             $miembros[] = [
-                "name" => "Beatriz Pinzón",
-                "img_path" => "assets/images/miembros/BeatrizPinzon.png",
-                "description1" => "Tesorera",
+                "name" => "José Dolcey Irreño Oliveros",
+                "img_path" => "assets/images/miembros/DolceyIrreno.png",
+                "description1" => "Tesorero",
                 "description2" => "Junta Directiva",                
             ];            
             $miembros[] = [
