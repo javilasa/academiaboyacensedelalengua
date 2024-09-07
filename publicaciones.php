@@ -32,7 +32,7 @@
         <?php
         
             $data = file_get_contents("data/publicaciones.json");
-            $cards = array_reverse(json_decode($data, true));
+            $cards = json_decode($data, true);
     
             require_once("templates/cards_four_two_columns.tpl.php");
         ?>

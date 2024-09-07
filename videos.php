@@ -32,7 +32,7 @@
                 <?php
                 
                     $data = file_get_contents("data/videos.json");
-                    $videos = array_reverse(json_decode($data, true));
+                    $videos = json_decode($data, true);
             
                     require_once("templates/grid_video_gallery.tpl.php");
                 ?>

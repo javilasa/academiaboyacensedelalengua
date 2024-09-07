@@ -10,8 +10,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $username = $_POST['username'];
     $password = $_POST['password'];
 
-    // Verifica las credenciales (puedes cambiar estos valores)
-    if ($username === 'admin' && $password === 'password123') {
+    // Suponiendo que estas son las credenciales almacenadas
+    $stored_md5_hash = 'bb0f7e021d52a4e31613d463fc0525d8'; 
+
+    // Concatenar usuario y contraseña
+    $input = $username . $password;
+
+    // Calcular el hash MD5 de la entrada
+    $input_md5 = md5($input);
+
+    // Verificar si el hash coincide con el almacenado
+    if ($input_md5 === $stored_md5_hash) {
         $_SESSION['logged_in'] = true;
         header("Location: dashboard.php");
         exit;

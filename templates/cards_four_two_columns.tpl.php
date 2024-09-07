@@ -6,8 +6,8 @@
     <div class="card">
       <img class="card-img-top" src="<?php print $card["img"]; ?>" alt="Card image cap">
       <div class="card-body">
-        <h5 class="card-title"><?php print $card["title"]?></h5>
-        <p class="card-text"><?php print $card["text"]?></p>
+        <h5 class="card-title"><?php print $card["titulo"]?></h5>
+        <p class="card-text"><?php print $card["desc"]?></p>
         <a target="_blank" href="<?php print $card["archivo"]?>" class="btn btn-primary">Descargar</a>
       </div>
     </div>

@@ -17,9 +17,9 @@
       },
       {
           "revistas":{
-            "title":"texto",
+            "titulo":"texto",
             "img":"imagen",
-            "text":"texto_largo",
+            "desc":"texto_largo",
             "archivo":"archivo"
           }
       },

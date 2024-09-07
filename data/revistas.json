@@ -1,140 +1,140 @@
 [
     {
-        "title": "Polimnia 10",
+        "titulo": "Polimnia 10",
         "img": ".\/assets\/images\/revistas\/Polimnia10.png",
-        "text": "Revista Polimnia #10",
+        "desc": "Revista Polimnia #10",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_10.pdf"
     },
     {
-        "title": "Polimnia 11",
+        "titulo": "Polimnia 11",
         "img": ".\/assets\/images\/revistas\/Polimnia11.png",
-        "text": "Revista Polimnia #11",
+        "desc": "Revista Polimnia #11",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_11.pdf"
     },
     {
-        "title": "Polimnia 12",
+        "titulo": "Polimnia 12",
         "img": ".\/assets\/images\/revistas\/Polimnia12.png",
-        "text": "Revista Polimnia #12",
+        "desc": "Revista Polimnia #12",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_12.pdf"
     },
     {
-        "title": "Polimnia 13",
+        "titulo": "Polimnia 13",
         "img": ".\/assets\/images\/revistas\/Polimnia13_2.png",
-        "text": "Revista Polimnia #13",
+        "desc": "Revista Polimnia #13",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_13.pdf"
     },
     {
-        "title": "Polimnia 14",
+        "titulo": "Polimnia 14",
         "img": ".\/assets\/images\/revistas\/Polimnia14.png",
-        "text": "Revista Polimnia #14",
+        "desc": "Revista Polimnia #14",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_14.pdf"
     },
     {
-        "title": "Polimnia 15",
+        "titulo": "Polimnia 15",
         "img": ".\/assets\/images\/revistas\/Polimnia15.png",
-        "text": "Revista Polimnia #15",
+        "desc": "Revista Polimnia #15",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_15.pdf"
     },
     {
-        "title": "Polimnia 16",
+        "titulo": "Polimnia 16",
         "img": ".\/assets\/images\/revistas\/Polimnia16.png",
-        "text": "Revista Polimnia #16",
+        "desc": "Revista Polimnia #16",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_16.pdf"
     },
     {
-        "title": "Polimnia 17",
+        "titulo": "Polimnia 17",
         "img": ".\/assets\/images\/revistas\/Polimnia17.png",
-        "text": "Revista Polimnia #17",
+        "desc": "Revista Polimnia #17",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_17.pdf"
     },
     {
-        "title": "Polimnia 18",
+        "titulo": "Polimnia 18",
         "img": ".\/assets\/images\/revistas\/Polimnia18.png",
-        "text": "Revista Polimnia #18",
+        "desc": "Revista Polimnia #18",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_18.pdf"
     },
     {
-        "title": "Polimnia 19",
+        "titulo": "Polimnia 19",
         "img": ".\/assets\/images\/revistas\/Polimnia19.png",
-        "text": "Revista Polimnia #19",
+        "desc": "Revista Polimnia #19",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_19.pdf"
     },
     {
-        "title": "Polimnia 20",
+        "titulo": "Polimnia 20",
         "img": ".\/assets\/images\/revistas\/Polimnia20.png",
-        "text": "Revista Polimnia #20",
+        "desc": "Revista Polimnia #20",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_20.pdf"
     },
     {
-        "title": "Polimnia 21",
+        "titulo": "Polimnia 21",
         "img": ".\/assets\/images\/revistas\/Polimnia21.png",
-        "text": "Revista Polimnia #21",
+        "desc": "Revista Polimnia #21",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_21.pdf"
     },
     {
-        "title": "Polimnia 22",
+        "titulo": "Polimnia 22",
         "img": ".\/assets\/images\/revistas\/Polimnia22.png",
-        "text": "Revista Polimnia #22",
+        "desc": "Revista Polimnia #22",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_22.pdf"
     },
     {
-        "title": "Polimnia 23",
+        "titulo": "Polimnia 23",
         "img": ".\/assets\/images\/revistas\/Polimnia23.png",
-        "text": "Revista Polimnia #23",
+        "desc": "Revista Polimnia #23",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_23.pdf"
     },
     {
-        "title": "Polimnia 24",
+        "titulo": "Polimnia 24",
         "img": ".\/assets\/images\/revistas\/Polimnia24.png",
-        "text": "Revista Polimnia #24",
+        "desc": "Revista Polimnia #24",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_24.pdf"
     },
     {
-        "title": "Polimnia 25",
+        "titulo": "Polimnia 25",
         "img": ".\/assets\/images\/revistas\/Polimnia25.png",
-        "text": "Revista Polimnia #25",
+        "desc": "Revista Polimnia #25",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_25.pdf"
     },
     {
-        "title": "Polimnia 26",
+        "titulo": "Polimnia 26",
         "img": ".\/assets\/images\/revistas\/Polimnia26.png",
-        "text": "Revista Polimnia #26",
+        "desc": "Revista Polimnia #26",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_26.pdf"
     },
     {
-        "title": "Polimnia 27",
+        "titulo": "Polimnia 27",
         "img": ".\/assets\/images\/revistas\/Polimnia27.png",
-        "text": "Revista Polimnia #27",
+        "desc": "Revista Polimnia #27",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_27.pdf"
     },
     {
-        "title": "Polimnia 28",
+        "titulo": "Polimnia 28",
         "img": ".\/assets\/images\/revistas\/Polimnia28.png",
-        "text": "Revista Polimnia #28",
+        "desc": "Revista Polimnia #28",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_28.pdf"
     },
     {
-        "title": "Polimnia 29",
+        "titulo": "Polimnia 29",
         "img": ".\/assets\/images\/revistas\/Polimnia29.png",
-        "text": "Revista Polimnia #29",
+        "desc": "Revista Polimnia #29",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_29.pdf"
     },
     {
-        "title": "Polimnia 30",
+        "titulo": "Polimnia 30",
         "img": ".\/assets\/images\/revistas\/Polimnia30.png",
-        "text": "Revista Polimnia #30",
+        "desc": "Revista Polimnia #30",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_30.pdf"
     },
     {
-        "title": "Polimnia 31",
+        "titulo": "Polimnia 31",
         "img": ".\/assets\/images\/revistas\/Polimnia31.png",
-        "text": "Revista Polimnia #31",
+        "desc": "Revista Polimnia #31",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_31.pdf"
     },
     {
-        "title": "Polimnia 32",
+        "titulo": "Polimnia 32",
         "img": ".\/assets\/images\/revistas\/Polimnia32.png",
-        "text": "Revista Polimnia #32",
+        "desc": "Revista Polimnia #32",
         "archivo": ".\/assets\/files\/revistas\/Polimnia_32.pdf"
     }
 ]
