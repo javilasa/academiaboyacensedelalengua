@@ -1,110 +1,74 @@
 [
-   {
-      "title":"El Silencio del Abuelo",
-      "img":"assets/images/publicaciones/publicacionElSilencio.png",
-      "text":"Author: Luis Saúl Vargas Delgado",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_el_silencio_del_abuelo.pdf"
-      }
-   },
-   {
-      "title":"Lo simple y sencillo de la vida",
-      "img":"assets/images/publicaciones/publicacionLoSimple.png",
-      "text":"Author: Luis Saúl Vargas Delgado",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_lo_simple_y_sencillo_de_la_vida_web.pdf"
-      }
-   },
-   {
-      "title":"Malagradecido",
-      "img":"assets/images/publicaciones/publicacionMalagradecidos.png",
-      "text":"Author: Juandemaro Querales",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_novela_malagradecido.pdf"
-      }
-   },
-   {
-      "title":"Asedios literarios",
-      "img":"assets/images/publicaciones/rev_asedios_2.png",
-      "text":"Author: Ana Gilma Buitrago de Muñoz",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_ASEDIOS.pdf"
-      }
-   },  
-   {
-      "title":"El poder y otros Demonios en la Soledad del Patriarca",
-      "img":"assets/images/publicaciones/rev_elPoder.png",
-      "text":"Author: Ana Gilma Buitrago de Muñoz",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_EL_PODER.pdf"
-      }
-   },
-   {
-      "title":"Con Derecho al Arte",
-      "img":"assets/images/publicaciones/rev_derecho.png",
-      "text":"Author: Eugenio Láscaris-Comneno Torres",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_CON_DERECHO.pdf"
-      }
-   },
-   {
-      "title":"Canto a Guinea Ecuatorial",
-      "img":"assets/images/publicaciones/rev_canto.png",
-      "text":"Author: Gilberto Abril Rojas",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_CANTO.pdf"
-      }
-   },  
-   {
-      "title":"Homenaje a la poetisa SALAMINEÑA",
-      "img":"assets/images/publicaciones/rev_homenaje.png",
-      "text":"Author: Agripina Montes del Valle",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_HOMENAJE_POETISA.pdf"
-      }
-   },
-   {
-      "title":"Felipe Pérez El Caballero Andante de Socunsuca",
-      "img":"assets/images/publicaciones/rev_Felipe.png",
-      "text":"Author: Antonio José Rivadeneira Vargas",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_FELIPE_PEREZ.pdf"
-      }
-   },
-   {
-      "title":"Homenaje al día del idioma",
-      "img":"assets/images/publicaciones/rev_diaIdioma.png",
-      "text":"Author: Gilberto Avila Monguí",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_HOMENAJEA.pdf"
-      }
-   },
-   {
-      "title":"Lo sagrado y lo profano en la novela Asuntos Divinos",
-      "img":"assets/images/publicaciones/rev_loSagrado.png",
-      "text":"Author: Gilberto Abril Rojas",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_LO_SAGRADO.pdf"
-      }
-   },
-   {
-      "title":"Los novelistas boyacenses a través de la historia",
-      "img":"assets/images/publicaciones/rev_losNovelistas.png",
-      "text":"Author: Gilberto Abril Rojas",
-      "link":{
-         "label":"Descargar",
-         "url":"assets/files/publicaciones/publicacion_LOS_NOVELISTAS.pdf"
-      }
-   }  
+    {
+        "titulo": "El Silencio del Abuelo",
+        "img": "assets\/images\/publicaciones\/publicacionElSilencio.png",
+        "desc": "Author: Luis Sa\u00fal Vargas Delgado",
+        "archivo": ".\/assets\/files\/publicaciones\/publicacion_el_silencio_del_abuelo.pdf"
+    },
+    {
+        "titulo": "Lo simple y sencillo de la vida",
+        "img": "assets\/images\/publicaciones\/publicacionLoSimple.png",
+        "desc": "Author: Luis Sa\u00fal Vargas Delgado",
+        "archivo": "assets\/files\/publicaciones\/publicacion_lo_simple_y_sencillo_de_la_vida_web.pdf"
+    },
+    {
+        "titulo": "Malagradecido",
+        "img": "assets\/images\/publicaciones\/publicacionMalagradecidos.png",
+        "desc": "Author: Juandemaro Querales",
+        "archivo": "assets\/files\/publicaciones\/publicacion_novela_malagradecido.pdf"
+    },
+    {
+        "titulo": "Asedios literarios",
+        "img": "assets\/images\/publicaciones\/rev_asedios_2.png",
+        "desc": "Author: Ana Gilma Buitrago de Mu\u00f1oz",
+        "archivo": "assets\/files\/publicaciones\/publicacion_ASEDIOS.pdf"
+    },
+    {
+        "titulo": "El poder y otros Demonios en la Soledad del Patriarca",
+        "img": "assets\/images\/publicaciones\/rev_elPoder.png",
+        "desc": "Author: Ana Gilma Buitrago de Mu\u00f1oz",
+        "archivo": "assets\/files\/publicaciones\/publicacion_EL_PODER.pdf"
+    },
+    {
+        "titulo": "Con Derecho al Arte",
+        "img": "assets\/images\/publicaciones\/rev_derecho.png",
+        "desc": "Author: Eugenio L\u00e1scaris-Comneno Torres",
+        "archivo": "assets\/files\/publicaciones\/publicacion_CON_DERECHO.pdf"
+    },
+    {
+        "titulo": "Canto a Guinea Ecuatorial",
+        "img": "assets\/images\/publicaciones\/rev_canto.png",
+        "desc": "Author: Gilberto Abril Rojas",
+        "archivo": "assets\/files\/publicaciones\/publicacion_CANTO.pdf"
+    },
+    {
+        "titulo": "Homenaje a la poetisa SALAMINE\u00d1A",
+        "img": "assets\/images\/publicaciones\/rev_homenaje.png",
+        "desc": "Author: Agripina Montes del Valle",
+        "archivo": "assets\/files\/publicaciones\/publicacion_HOMENAJE_POETISA.pdf"
+    },
+    {
+        "titulo": "Felipe P\u00e9rez El Caballero Andante de Socunsuca",
+        "img": "assets\/images\/publicaciones\/rev_Felipe.png",
+        "desc": "Author: Antonio Jos\u00e9 Rivadeneira Vargas",
+        "archivo": "assets\/files\/publicaciones\/publicacion_FELIPE_PEREZ.pdf"
+    },
+    {
+        "titulo": "Homenaje al d\u00eda del idioma",
+        "img": "assets\/images\/publicaciones\/rev_diaIdioma.png",
+        "desc": "Author: Gilberto Avila Mongu\u00ed",
+        "archivo": "assets\/files\/publicaciones\/publicacion_HOMENAJEA.pdf"
+    },
+    {
+        "titulo": "Lo sagrado y lo profano en la novela Asuntos Divinos",
+        "img": "assets\/images\/publicaciones\/rev_loSagrado.png",
+        "desc": "Author: Gilberto Abril Rojas",
+        "archivo": "assets\/files\/publicaciones\/publicacion_LO_SAGRADO.pdf"
+    },
+    {
+        "titulo": "Los novelistas boyacenses a trav\u00e9s de la historia",
+        "img": "assets\/images\/publicaciones\/rev_losNovelistas.png",
+        "desc": "Author: Gilberto Abril Rojas",
+        "archivo": "assets\/files\/publicaciones\/publicacion_LOS_NOVELISTAS.pdf"
+    }
 ]

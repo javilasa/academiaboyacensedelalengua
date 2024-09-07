@@ -8,7 +8,7 @@
       <div class="card-body">
         <h5 class="card-title"><?php print $card["title"]?></h5>
         <p class="card-text"><?php print $card["text"]?></p>
-        <a target="_blank" href="<?php print $card["link"]["url"]?>" class="btn btn-primary"><?php print $card["link"]["label"]?></a>
+        <a target="_blank" href="<?php print $card["archivo"]?>" class="btn btn-primary">Descargar</a>
       </div>
     </div>
   </div>

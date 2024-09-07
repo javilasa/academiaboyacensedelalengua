@@ -29,46 +29,16 @@
       <div class="row justify-content-center">
         <div class="col-11 col-sm-10 col-md-8">
           <h2 class="text-dark">Miembros</h2> 
-          <?php
-            $miembros = [];
-            $miembros[] = [
-                "name" => "Gilberto Avila Monguí",
-                "img_path" => "assets/images/miembros/GilbertoAvila.png",
-                "description1" => "Presidente",
-                "description2" => "Junta Directiva",
-            ];
-            $miembros[] = [
-                "name" => "Miguel Angel Avila",
-                "img_path" => "assets/images/miembros/MiguelAvila.png",
-                "description1" => "Subdirector",
-                "description2" => "Junta Directiva",                
-            ];            
-            $miembros[] = [
-                "name" => "Gilberto Abril",
-                "img_path" => "assets/images/miembros/GilbertoAbril.png",
-                "description1" => "Secretario",
-                "description2" => "Junta Directiva",                
-            ];
-            $miembros[] = [
-                "name" => "José Dolcey Irreño Oliveros",
-                "img_path" => "assets/images/miembros/DolceyIrreno.png",
-                "description1" => "Tesorero",
-                "description2" => "Junta Directiva",                
-            ];            
-            $miembros[] = [
-                "name" => "Gustavo Torres",
-                "img_path" => "assets/images/miembros/GustavoTorres.png",
-                "description1" => "Veedor",
-                "description2" => "Junta Directiva",                
-            ];
-            
+          <?php           
+            $membersFile = './data/miembros.json';
+            $miembros = json_decode(file_get_contents($membersFile), true);
             $position = "";
             foreach($miembros as $miembro){
                 $position = $position == "right" ? "left":"right";
-                $card_img = $miembro["img_path"];
-                $card_title = $miembro["name"];
-                $card_description1 = $miembro["description1"];
-                $card_description2 = $miembro["description2"];
+                $card_img = $miembro["img"];
+                $card_title = $miembro["nom"];
+                $card_description1 = $miembro["cargo"];
+                $card_description2 = $miembro["desc"];
                 include("templates/card_left_right.tpl.php");
             }
           ?>

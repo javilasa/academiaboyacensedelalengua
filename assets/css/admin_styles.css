@@ -1,0 +1,157 @@
+/* Estilos generales */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h2, h3 {
+    color: #333;
+    font-weight: 600;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+/* Estilo de enlaces */
+a {
+    color: #555; /* Color de texto para enlaces */
+    text-decoration: none;
+    transition: color 0.3s ease, background-color 0.3s ease, transform 0.3s ease; /* Añadir transform para animación */
+    padding: 8px 12px;
+    border-radius: 4px; /* Bordes redondeados */
+}
+
+/* Estilo de enlaces al pasar el ratón */
+a:hover {
+    text-decoration: none; /* Sin subrayado al pasar el ratón */
+    background-color: #e9ecef; /* Fondo al pasar el ratón */
+    transform: scale(1.05); /* Incrementar tamaño al pasar el ratón */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Clase para botones de enlace con borde verde oliva */
+.btn-link {
+    color: #333; /* Color del texto */
+    border: 2px solid olive; /* Borde verde oliva */
+    border-radius: 4px; /* Bordes redondeados */
+    padding: 8px 12px; /* Espaciado interno */
+    text-decoration: none; /* Sin subrayado */
+    display: inline-block; /* Asegurar que el padding y el borde funcionen correctamente */
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease; /* Transiciones suaves */
+}
+
+.btn-link:hover {
+    background-color: rgba(128, 128, 0, 0.1); /* Fondo al pasar el ratón */
+    transform: scale(1.05); /* Incrementar tamaño al pasar el ratón */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Contenedor principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+/* Estilo de tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #dee2e6;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f7f9fc;
+    color: #333;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #e9ecef;
+}
+
+/* Estilo de formularios */
+form {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"],
+input[type="file"],
+textarea {
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.3s;
+}
+
+input[type="text"]:focus,
+textarea:focus {
+    border-color: #007bff;
+}
+
+/* Botón de envío */
+input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+/* Estilos de botones de acción */
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+button:hover {
+    background-color: #218838;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+/* Estilos de enlaces de acción */
+a.action-link {
+    color: #007bff; /* Color de enlace de acción */
+    padding: 5px 10px; /* Espaciado */
+}
+
+a.action-link:hover {
+    color: #0056b3; /* Color de enlace de acción al pasar el ratón */
+    transform: scale(1.05); /* Incrementar tamaño al pasar el ratón */
+}
